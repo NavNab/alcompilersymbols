@@ -4,7 +4,7 @@
 
 Download AL Symbols! If you are involved in developing apps (PTE or AppSource) for Microsoft Dynamics 365 Business Central, you're probably familiar with this command:
 
-![AL Symbols](https://raw.githubusercontent.com/NavNab/alcompilersymbols/main/src/img/downloadSymbols.png?token=GHSAT0AAAAAACEQ2KQ226HDYMVFCKAM2LIAZFN2ZEA)
+![Download AL Symbols](https://raw.githubusercontent.com/NavNab/alcompilersymbols/main/src/img/downloadSymbols.png?token=GHSAT0AAAAAACEQ2KQ226HDYMVFCKAM2LIAZFN2ZEA "Download AL Symbols")
 
 This command allows you to download the symbols for the app you're currently working on. However, what if you want to automate this process?
 
